@@ -3,7 +3,7 @@ import { ThemeProvider } from "@emotion/react";
 const theme = {
   colors: {
     primary: "#1ea7fd",
-    secondary: "transparent",
+    secondary: "#404656",
   },
 };
 
